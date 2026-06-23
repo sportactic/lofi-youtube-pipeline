@@ -1,0 +1,50 @@
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+client_secrets.json
+token.json
+*.pem
+*.key
+secrets.yaml
+
+# Generated runtime content (regenerated on every run)
+pipeline/music/raw/
+pipeline/music/processed/
+pipeline/music/final/
+pipeline/visual/thumbnails/
+pipeline/visual/backgrounds/
+pipeline/visual/video_clips/
+pipeline/visual/final/
+pipeline/upload/ready/
+pipeline/logs/
+pipeline/run.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.tar.gz
+!docs/*.tar.gz

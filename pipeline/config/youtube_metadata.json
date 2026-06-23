@@ -1,0 +1,29 @@
+{
+  "title_template": "🌧 {mood} Lofi Hip Hop — 1 Hour Study Mix [{year}]",
+  "description": "☕ Relaxing lofi hip hop beats for studying, working & chilling.\nPut on headphones and enjoy this 1-hour study session mix. 🎧\n\n#lofi #lofihiphop #studybeats #chillhop #jazzhop #2026",
+  "tags": [
+    "lofi",
+    "lofi hip hop",
+    "study beats",
+    "lofi beats",
+    "chillhop",
+    "coffee shop lofi",
+    "rain lofi",
+    "1 hour lofi",
+    "focus music",
+    "lofi study",
+    "relaxing music",
+    "lofi jazz"
+  ],
+  "category_id": "10",
+  "privacy": "public",
+  "made_for_kids": false,
+  "moods": [
+    "Rainy Day",
+    "Coffee Shop",
+    "Late Night",
+    "Morning Chill",
+    "Sunset Vibes",
+    "Midnight Study"
+  ]
+}
