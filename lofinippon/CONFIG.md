@@ -133,3 +133,24 @@ Total: 3216.3s = 53.6 min
 - **V1**: `/workspace/lofinippon-video-production/lofinippon-v1-final.mp4` (80.0 min, "a" visuals)
 - **V2**: `/workspace/lofinippon-video-production/lofinippon-v2-final.mp4` (80.8 min, "b" visuals)
 - Different scheduled publish times via YouTube publishAt
+
+## First Two Videos Uploaded (2026-06-25)
+- **V1**: https://www.youtube.com/watch?v=KTAC886oDWg
+  - Title: "1 Hour+ Japanese Lo-Fi Beats to Sleep Study Focus | Sakura, Zen Garden, Tokyo Rain | Lofi Nippon v1"
+  - Publish: 2026-06-26 22:00 UTC (JST 07:00 2026-06-27)
+  - Duration: 4800.67s = 80.01 min
+  - 10 tracks (Variation A)
+  - Visuals: 10x kimono+tanuki scenes (a-variations)
+  - Audio match: 0.005s drift
+  
+- **V2**: https://www.youtube.com/watch?v=mNgeBtWHgtA
+  - Title: "1 Hour+ Japanese Lo-Fi Beats to Sleep Study Focus | Sakura, Zen Garden, Tokyo Rain | Lofi Nippon v2"
+  - Publish: 2026-06-27 12:00 UTC (JST 21:00 2026-06-27)
+  - Duration: 4848.33s = 80.81 min
+  - 10 tracks (Variation B)
+  - Visuals: 10x kimono+tanuki scenes (b-variations)
+  - Audio match: 0.002s drift
+
+- Time between V1 and V2: 14 hours
+- Both uploaded to @lofinippon (UCEXLQ3tlpMu4TWnHojfEP7g) using YOUTUBE_NIPPON_* secrets
+- NO mix-up with @The-Lo-Fi (UCpdnbfS3UL-_bKr_8uJGYxQ)
