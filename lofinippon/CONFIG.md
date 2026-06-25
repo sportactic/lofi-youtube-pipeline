@@ -103,3 +103,33 @@ Each track ~120-190s. Themes:
 5. Generate Japanese visuals
 6. Build first 1-hour video
 7. Upload to @lofinippon
+
+## OAuth Completion (2026-06-25)
+- ✅ OAuth flow completed, refresh token saved to mavis secret `YOUTUBE_NIPPON_REFRESH_TOKEN`
+- ✅ Token grants access to UCEXLQ3tlpMu4TWnHojfEP7g (LoFi Nippon) only — not mixed with TheLoFi
+- ✅ Token verified: 19 subscribers, 18 existing videos
+
+## 20 New Tracks Produced (2026-06-25)
+User produced 20 tracks via Suno (10 themes × 2 variations):
+1. Fuji Morning
+2. Yoru no Izakaya
+3. Moon Garden Drift
+4. Lanterns in Kyoto
+5. Fog at Torii Path
+6. Tea Room Ripples
+7. Bamboo Moon Drift
+8. Bamboo Water Path
+9. Shibuya Raincar
+10. Sakura Bell Drift
+
+Total: 3216.3s = 53.6 min
+- V1 (variation 1): 1600.2s × 3 loops = 4800.7s = 80.0 min
+- V2 (variation 2): 1616.1s × 3 loops = 4848.3s = 80.8 min
+
+## 20 Visuals Generated
+10 themes × 2 variations (a/b) each. Kimono girl + tanuki mascot, sakura/indigo/gold palette.
+
+## 2 Videos Planned
+- **V1**: `/workspace/lofinippon-video-production/lofinippon-v1-final.mp4` (80.0 min, "a" visuals)
+- **V2**: `/workspace/lofinippon-video-production/lofinippon-v2-final.mp4` (80.8 min, "b" visuals)
+- Different scheduled publish times via YouTube publishAt
