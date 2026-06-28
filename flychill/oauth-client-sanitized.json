@@ -1,0 +1,13 @@
+{
+  "web": {
+    "client_id": "444430672231-2nk4kvi0gjhkupfgc5303s3krg90f7pt.apps.googleusercontent.com",
+    "project_id": "n8n-quirktag",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "REDACTED",
+    "redirect_uris": [
+      "https://n8n.srv833971.hstgr.cloud/rest/oauth2-credential/callback"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "channel": "FlyChill",
+  "channel_id": "UCvnQnOtZUJ9ZsM1ZgJpvBqQ",
+  "channel_handle": "@FlyChill",
+  "video_id": "8Lxl5-f1TWE",
+  "video_url": "https://www.youtube.com/watch?v=8Lxl5-f1TWE",
+  "title": "FlyChill • 1 Hour+ Cozy Lofi Beats to Study Sleep Relax | Rainy Window Vibes",
+  "duration_seconds": 3558.251,
+  "duration_minutes": 59.3,
+  "size_mb": 338.97,
+  "track_used": {
+    "title": "Window Seat Steam",
+    "clip_id": "d2622359-2f7c-49ba-9fc4-930a9c12afd1",
+    "duration_seconds": 131.78,
+    "loops": 27,
+    "model": "chirp-fenix (v5.5)"
+  },
+  "visuals_count": 20,
+  "upload_method": "zernio",
+  "uploaded_at": "2026-06-28T04:47:13Z",
+  "status": "published"
+}
