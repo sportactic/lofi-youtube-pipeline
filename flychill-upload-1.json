@@ -1,0 +1,22 @@
+{
+  "new_video": {
+    "youtube_id": "b6GGdt_eoLc",
+    "url": "https://www.youtube.com/watch?v=b6GGdt_eoLc",
+    "title": "FlyChill • 1 Hour+ Lofi Beats to Study Sleep Relax | Cozy Rainy Window Vibes",
+    "duration_seconds": 4239.339,
+    "duration_minutes": 70.66,
+    "video_resolution": "1280x720@12fps",
+    "audio_tracks": 10,
+    "loops": 3,
+    "total_audio_seconds": 4239.336,
+    "file_size_mb": 170.3,
+    "zernio_post_id": "6a415905d6aba68ca6b29516",
+    "uploaded_at": "2026-06-28T17:27:13Z"
+  },
+  "old_bad_video_deleted": {
+    "youtube_id": "8Lxl5-f1TWE",
+    "title": "FlyChill • 1 Hour+ Cozy Lofi Beats to Study Sleep Relax | Rainy Window Vibes",
+    "status": "deleted",
+    "note": "Was 27 loops of single track - unacceptable"
+  }
+}
