@@ -1,0 +1,122 @@
+[
+  {
+    "short": "5SbDRYJhriEvRUxG",
+    "clip_id": "bb86bcdb-2cb1-4570-bfe2-bdd14a16d47d",
+    "title": "Backseat Cappuccino",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/bb86bcdb-2cb1-4570-bfe2-bdd14a16d47d.mp3",
+    "duration": 145.512,
+    "file": "/workspace/flychill-tracks-v2/01-backseat-cappuccino.mp3"
+  },
+  {
+    "short": "tHdmW7zN0c4aYluj",
+    "clip_id": "3fd447a0-a247-4d60-9bb8-aa3b2d2b15a0",
+    "title": "Backseat Cappuccino",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/3fd447a0-a247-4d60-9bb8-aa3b2d2b15a0.mp3",
+    "duration": 129.744,
+    "file": "/workspace/flychill-tracks-v2/02-backseat-cappuccino.mp3"
+  },
+  {
+    "short": "zw0mR3DjdsM4V2Cv",
+    "clip_id": "b949e4ab-794d-42d1-bb5a-ad1b112f2317",
+    "title": "Espresso Drift",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/b949e4ab-794d-42d1-bb5a-ad1b112f2317.mp3",
+    "duration": 98.184,
+    "file": "/workspace/flychill-tracks-v2/03-espresso-drift.mp3"
+  },
+  {
+    "short": "OGMCDi0ivhkxSv6v",
+    "clip_id": "aca0bc2a-bb85-4078-992a-bd50dd4e59cd",
+    "title": "Espresso Drift",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/aca0bc2a-bb85-4078-992a-bd50dd4e59cd.mp3",
+    "duration": 126.72,
+    "file": "/workspace/flychill-tracks-v2/04-espresso-drift.mp3"
+  },
+  {
+    "short": "56v01HBG9mHHA06g",
+    "clip_id": "78bf5cb6-c3ba-467e-8250-97c6debb7066",
+    "title": "Espresso Window",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/78bf5cb6-c3ba-467e-8250-97c6debb7066.mp3",
+    "duration": 157.8,
+    "file": "/workspace/flychill-tracks-v2/05-espresso-window.mp3"
+  },
+  {
+    "short": "kSmaj9q3o3n6v3v9",
+    "clip_id": "756f6b3b-ecca-4ff1-b6d6-23d2e0bf67b5",
+    "title": "Espresso Window",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/756f6b3b-ecca-4ff1-b6d6-23d2e0bf67b5.mp3",
+    "duration": 479.424,
+    "file": "/workspace/flychill-tracks-v2/06-espresso-window.mp3"
+  },
+  {
+    "short": "QLgF9ARJwBJz3ARq",
+    "clip_id": "28b81b16-d8f9-4152-b7a6-3d0360184fc3",
+    "title": "Bean Counter",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/28b81b16-d8f9-4152-b7a6-3d0360184fc3.mp3",
+    "duration": 110.04,
+    "file": "/workspace/flychill-tracks-v2/07-bean-counter.mp3"
+  },
+  {
+    "short": "H0VDnRSAtx3Iidz5",
+    "clip_id": "cb5b957a-88b1-405c-a100-bbc86b50b8e9",
+    "title": "Bean Counter",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/cb5b957a-88b1-405c-a100-bbc86b50b8e9.mp3",
+    "duration": 94.464,
+    "file": "/workspace/flychill-tracks-v2/08-bean-counter.mp3"
+  },
+  {
+    "short": "v9jQBYswYmDsfVc6",
+    "clip_id": "27291416-4a4f-48c9-af3f-5f859d3742e7",
+    "title": "Espresso Loops",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/27291416-4a4f-48c9-af3f-5f859d3742e7.mp3",
+    "duration": 114.72,
+    "file": "/workspace/flychill-tracks-v2/09-espresso-loops.mp3"
+  },
+  {
+    "short": "mX9HfeYfEMSgWhjw",
+    "clip_id": "fc234474-a3d7-4d85-a921-c4b4c0b6bef9",
+    "title": "Espresso Loops",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/fc234474-a3d7-4d85-a921-c4b4c0b6bef9.mp3",
+    "duration": 113.952,
+    "file": "/workspace/flychill-tracks-v2/10-espresso-loops.mp3"
+  },
+  {
+    "short": "ZaE2KxOITYxfW82e",
+    "clip_id": "dc456f72-bf89-4c93-9ab0-1977d8846f44",
+    "title": "Café Loop",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/dc456f72-bf89-4c93-9ab0-1977d8846f44.mp3",
+    "duration": 137.352,
+    "file": "/workspace/flychill-tracks-v2/11-caf--loop.mp3"
+  },
+  {
+    "short": "B3c0uijj324xYtnA",
+    "clip_id": "e321cd43-e0b4-4e84-80b6-6b3d182e4916",
+    "title": "Café Loop",
+    "prompt": "",
+    "model": "unknown",
+    "audio_url": "https://cdn1.suno.ai/e321cd43-e0b4-4e84-80b6-6b3d182e4916.mp3",
+    "duration": 109.152,
+    "file": "/workspace/flychill-tracks-v2/12-caf--loop.mp3"
+  }
+]
