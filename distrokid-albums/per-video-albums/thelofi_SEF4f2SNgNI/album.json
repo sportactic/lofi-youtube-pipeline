@@ -1,0 +1,54 @@
+{
+  "video_id": "SEF4f2SNgNI",
+  "channel": "thelofi",
+  "video_title": "Lofi Hip Hop Beats to Study, Sleep & Relax | Rainy Window & Coffee Vibes",
+  "video_date": "2026-06-29",
+  "album_name": "Cozy Hours Vol 1 — Rainy Window",
+  "album_description": "Warm lofi beats with rain on the window and coffee.",
+  "mood": "evening_warm",
+  "artist": "TheLoFi",
+  "genre": "Lo-Fi Hip Hop",
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Lamplight Reverie"
+    },
+    {
+      "order": 2,
+      "name": "Patina Window"
+    },
+    {
+      "order": 3,
+      "name": "Skybound Pages"
+    },
+    {
+      "order": 4,
+      "name": "Cobblestone Hours"
+    },
+    {
+      "order": 5,
+      "name": "Skylight Pages"
+    },
+    {
+      "order": 6,
+      "name": "Dusty Margins"
+    },
+    {
+      "order": 7,
+      "name": "Golden Overlook"
+    },
+    {
+      "order": 8,
+      "name": "Lantern Drift"
+    },
+    {
+      "order": 9,
+      "name": "Paper Lanterns"
+    },
+    {
+      "order": 10,
+      "name": "Maple Confession"
+    }
+  ],
+  "total_tracks": 10
+}
