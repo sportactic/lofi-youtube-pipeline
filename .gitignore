@@ -16,3 +16,6 @@ captcha*.png
 
 # Distrokid (keep cover + metadata, exclude MP3)
 distrokid-albums/*/tracks/*.mp3
+
+# Per-video album tracks (excluded - they duplicate main album)
+distrokid-albums/per-video-albums/*/tracks/*.mp3
