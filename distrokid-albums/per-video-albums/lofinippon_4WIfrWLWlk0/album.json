@@ -1,0 +1,38 @@
+{
+  "video_id": "4WIfrWLWlk0",
+  "channel": "lofinippon",
+  "video_title": "1 Hour+ Japanese Lo-Fi Beats to Sleep Study Focus | Tanuki, Lantern",
+  "video_date": "2026-06-29",
+  "album_name": "Matsuri Dreams Vol 4 — Lantern Stroll",
+  "album_description": "Lantern stroll themed nighttime lofi mix.",
+  "mood": "lantern_walk",
+  "artist": "LofiNippon",
+  "genre": "Japanese Lo-Fi",
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Tanuki Steps"
+    },
+    {
+      "order": 2,
+      "name": "Matsuri Glow"
+    },
+    {
+      "order": 3,
+      "name": "Bamboo Rain"
+    },
+    {
+      "order": 4,
+      "name": "Lantern Alley"
+    },
+    {
+      "order": 5,
+      "name": "Tea Garden Hush"
+    },
+    {
+      "order": 6,
+      "name": "Tatami Window"
+    }
+  ],
+  "total_tracks": 6
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "6a40a75a62ab75e93ac9b340",
+  "channel": "flychill",
+  "video_title": "FlyChill • 1 Hour+ Lofi Beats to Study Sleep Relax | Rainy Mood",
+  "video_date": "2026-06-28",
+  "album_name": "Late Hours Vol 4 — Rainy Mood",
+  "album_description": "Rainy mood lofi.",
+  "mood": "rainy_mood",
+  "artist": "FlyChill",
+  "genre": "Lo-Fi Hip Hop",
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Lamp Glow"
+    },
+    {
+      "order": 2,
+      "name": "Skylight Café"
+    },
+    {
+      "order": 3,
+      "name": "Night Window"
+    },
+    {
+      "order": 4,
+      "name": "Paper Cups"
+    },
+    {
+      "order": 5,
+      "name": "Corner Table"
+    }
+  ],
+  "total_tracks": 5
+}

@@ -1,0 +1,54 @@
+{
+  "video_id": "HuaUcIvsBzU",
+  "channel": "thelofi",
+  "video_title": "1 Hour+ Cozy Lofi Vibes to Sleep Study Focus | Late Night Rainy Window Desk",
+  "video_date": "2026-06-28",
+  "album_name": "Cozy Hours Vol 3 — Late Night Session",
+  "album_description": "A late-night study mix of warm lofi beats. Recorded during midnight rain.",
+  "mood": "late_night_warm",
+  "artist": "TheLoFi",
+  "genre": "Lo-Fi Hip Hop",
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Lamplight Reverie"
+    },
+    {
+      "order": 2,
+      "name": "Patina Window"
+    },
+    {
+      "order": 3,
+      "name": "Skybound Pages"
+    },
+    {
+      "order": 4,
+      "name": "Cobblestone Hours"
+    },
+    {
+      "order": 5,
+      "name": "Skylight Pages"
+    },
+    {
+      "order": 6,
+      "name": "Dusty Margins"
+    },
+    {
+      "order": 7,
+      "name": "Golden Overlook"
+    },
+    {
+      "order": 8,
+      "name": "Lantern Drift"
+    },
+    {
+      "order": 9,
+      "name": "Paper Lanterns"
+    },
+    {
+      "order": 10,
+      "name": "Maple Confession"
+    }
+  ],
+  "total_tracks": 10
+}
