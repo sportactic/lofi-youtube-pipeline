@@ -1,0 +1,10 @@
+# Daily pipeline cron schedule (UTC times)
+# Format: MIN HOUR DOM MON DOW COMMAND
+# 
+# thelofi: 19:00 UTC = 22:00 TR
+# lofinippon: 01:00 UTC = 04:00 TR  
+# flychill: 07:00 UTC = 10:00 TR
+
+0 19 * * * /workspace/daily-pipeline/run-daily.sh thelofi 2 "$(date -u -d 'tomorrow 19:00' '+%Y-%m-%dT%H:%M:%SZ')"
+0 1 * * * /workspace/daily-pipeline/run-daily.sh lofinippon 3 "$(date -u -d 'tomorrow 01:00' '+%Y-%m-%dT%H:%M:%SZ')"
+0 7 * * * /workspace/daily-pipeline/run-daily.sh flychill 3 "$(date -u -d 'tomorrow 07:00' '+%Y-%m-%dT%H:%M:%SZ')"

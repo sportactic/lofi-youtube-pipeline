@@ -1,0 +1,97 @@
+{
+  "channel": "lofinippon",
+  "workspace_id": "2f6a96be-2327-4b87-baec-d21466d6d3c5",
+  "tracks": [
+    {
+      "id": "00d7084d-9025-4846-9b3d-ea923d756429",
+      "title": "Tanuki On the Steps",
+      "duration": 183.76,
+      "audio_url": "https://cdn1.suno.ai/00d7084d-9025-4846-9b3d-ea923d756429.mp3",
+      "image_url": "https://cdn2.suno.ai/image_00d7084d-9025-4846-9b3d-ea923d756429.jpeg",
+      "created_at": "2026-06-29T06:32:37.410Z",
+      "gpt_description_prompt": "Japanese lofi, soft koto melody, ambient pads, traditional wooden flute, lo-fi hip hop drums, melancholic beauty, slow tempo, ancient stone shrine steps at dawn, misty morning, soft moss textures, tanuki guardian, anime cinematic peaceful"
+    },
+    {
+      "id": "39b1adb5-f78d-43b0-bfeb-08c007277743",
+      "title": "Tanuki On the Steps",
+      "duration": 147.64,
+      "audio_url": "https://cdn1.suno.ai/39b1adb5-f78d-43b0-bfeb-08c007277743.mp3",
+      "image_url": "https://cdn2.suno.ai/image_39b1adb5-f78d-43b0-bfeb-08c007277743.jpeg",
+      "created_at": "2026-06-29T06:32:37.410Z",
+      "gpt_description_prompt": "Japanese lofi, soft koto melody, ambient pads, traditional wooden flute, lo-fi hip hop drums, melancholic beauty, slow tempo, ancient stone shrine steps at dawn, misty morning, soft moss textures, tanuki guardian, anime cinematic peaceful"
+    },
+    {
+      "id": "daa71b9d-1cc2-47ee-b1d0-62f6f8c96303",
+      "title": "Lanterns at Matsuri",
+      "duration": 148.28,
+      "audio_url": "https://cdn1.suno.ai/daa71b9d-1cc2-47ee-b1d0-62f6f8c96303.mp3",
+      "image_url": "https://cdn2.suno.ai/image_daa71b9d-1cc2-47ee-b1d0-62f6f8c96303.jpeg",
+      "created_at": "2026-06-29T06:31:21.773Z",
+      "gpt_description_prompt": "Lofi hip hop, taiko-inspired soft percussion, koto arpeggios, electric piano chords, mellow bass, festival lanterns in distance, slow tempo, summer matsuri evening, soft wind chime, kimono and yukata aesthetic, warm nostalgia, lofi japanese"
+    },
+    {
+      "id": "3109716d-024e-42c5-a289-55603d7bb4ad",
+      "title": "Lanterns at Matsuri",
+      "duration": 162.84,
+      "audio_url": "https://cdn1.suno.ai/3109716d-024e-42c5-a289-55603d7bb4ad.mp3",
+      "image_url": "https://cdn2.suno.ai/image_3109716d-024e-42c5-a289-55603d7bb4ad.jpeg",
+      "created_at": "2026-06-29T06:31:21.773Z",
+      "gpt_description_prompt": "Lofi hip hop, taiko-inspired soft percussion, koto arpeggios, electric piano chords, mellow bass, festival lanterns in distance, slow tempo, summer matsuri evening, soft wind chime, kimono and yukata aesthetic, warm nostalgia, lofi japanese"
+    },
+    {
+      "id": "bcbe5fa1-1566-4e03-8cbd-e2c075970dcc",
+      "title": "Bamboo Rain",
+      "duration": 153.44,
+      "audio_url": "https://cdn1.suno.ai/bcbe5fa1-1566-4e03-8cbd-e2c075970dcc.mp3",
+      "image_url": "https://cdn2.suno.ai/image_bcbe5fa1-1566-4e03-8cbd-e2c075970dcc.jpeg",
+      "created_at": "2026-06-29T06:30:55.240Z",
+      "gpt_description_prompt": "Japanese lo-fi chillhop, ambient pad synth, soft marimba, bamboo flute, gentle lo-fi drums, warm sub bass, rainy forest atmosphere, slow tempo, bamboo grove, gentle rain on leaves, peaceful dreamlike, anime nostalgic, ethereal mood"
+    },
+    {
+      "id": "530f7e44-1d4a-4ee8-8db8-dd9a41518a8e",
+      "title": "Bamboo Rain",
+      "duration": 132.96,
+      "audio_url": "https://cdn1.suno.ai/530f7e44-1d4a-4ee8-8db8-dd9a41518a8e.mp3",
+      "image_url": "https://cdn2.suno.ai/image_530f7e44-1d4a-4ee8-8db8-dd9a41518a8e.jpeg",
+      "created_at": "2026-06-29T06:30:55.240Z",
+      "gpt_description_prompt": "Japanese lo-fi chillhop, ambient pad synth, soft marimba, bamboo flute, gentle lo-fi drums, warm sub bass, rainy forest atmosphere, slow tempo, bamboo grove, gentle rain on leaves, peaceful dreamlike, anime nostalgic, ethereal mood"
+    },
+    {
+      "id": "aa278481-1149-4fc3-924c-e04341f93514",
+      "title": "Lantern Alley Tanuki",
+      "duration": 181.44,
+      "audio_url": "https://cdn1.suno.ai/aa278481-1149-4fc3-924c-e04341f93514.mp3",
+      "image_url": "https://cdn2.suno.ai/image_aa278481-1149-4fc3-924c-e04341f93514.jpeg",
+      "created_at": "2026-06-29T06:29:23.598Z",
+      "gpt_description_prompt": "Japanese lo-fi, koto melody, shakuhachi flute, soft electronic beats, deep sub bass, peaceful and nostalgic, slow tempo, evening lantern-lit alley, soft rain on stone, traditional meets modern, studio Ghibli aesthetic, tanuki companion, melancholic beauty"
+    },
+    {
+      "id": "b93f8235-4785-41ee-abc9-cbbb339d9e41",
+      "title": "Lantern Alley Tanuki",
+      "duration": 189.32,
+      "audio_url": "https://cdn1.suno.ai/b93f8235-4785-41ee-abc9-cbbb339d9e41.mp3",
+      "image_url": "https://cdn2.suno.ai/image_b93f8235-4785-41ee-abc9-cbbb339d9e41.jpeg",
+      "created_at": "2026-06-29T06:29:23.598Z",
+      "gpt_description_prompt": "Japanese lo-fi, koto melody, shakuhachi flute, soft electronic beats, deep sub bass, peaceful and nostalgic, slow tempo, evening lantern-lit alley, soft rain on stone, traditional meets modern, studio Ghibli aesthetic, tanuki companion, melancholic beauty"
+    },
+    {
+      "id": "d87afb0f-f4d3-48eb-a3c5-e5b000e5ef6f",
+      "title": "\u8336\u306e\u6e6f\u306e\u9759\u3051\u3055",
+      "duration": 168.64,
+      "audio_url": "https://cdn1.suno.ai/d87afb0f-f4d3-48eb-a3c5-e5b000e5ef6f.mp3",
+      "image_url": "https://cdn2.suno.ai/image_d87afb0f-f4d3-48eb-a3c5-e5b000e5ef6f.jpeg",
+      "created_at": "2026-06-29T06:29:01.106Z",
+      "gpt_description_prompt": "Lofi chillhop Japanese fusion, shamisen plucks, soft piano chords, lo-fi hip hop drums, gentle bass, peaceful meditation mood, slow tempo, traditional tea house interior, tatami mats, soft window light, kimono girl aesthetic, calm contemplation"
+    },
+    {
+      "id": "c872c889-372a-47cc-b0c2-98ab5d4d1d0b",
+      "title": "Tatami Window Light",
+      "duration": 158.44,
+      "audio_url": "https://cdn1.suno.ai/c872c889-372a-47cc-b0c2-98ab5d4d1d0b.mp3",
+      "image_url": "https://cdn2.suno.ai/image_c872c889-372a-47cc-b0c2-98ab5d4d1d0b.jpeg",
+      "created_at": "2026-06-29T06:29:01.106Z",
+      "gpt_description_prompt": "Lofi chillhop Japanese fusion, shamisen plucks, soft piano chords, lo-fi hip hop drums, gentle bass, peaceful meditation mood, slow tempo, traditional tea house interior, tatami mats, soft window light, kimono girl aesthetic, calm contemplation"
+    }
+  ],
+  "visuals_dir": "/workspace/visuals-lofi-nippon-v3"
+}
