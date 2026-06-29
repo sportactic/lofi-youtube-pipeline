@@ -1,0 +1,59 @@
+{
+  "album_title": "Cozy Hours",
+  "artist": "TheLoFi",
+  "genre": "Lo-Fi Hip Hop",
+  "release_date": "2026-06-29",
+  "upc": null,
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Lamplight Reverie",
+      "isrc": null
+    },
+    {
+      "order": 2,
+      "name": "Patina Window",
+      "isrc": null
+    },
+    {
+      "order": 3,
+      "name": "Skybound Pages",
+      "isrc": null
+    },
+    {
+      "order": 4,
+      "name": "Cobblestone Hours",
+      "isrc": null
+    },
+    {
+      "order": 5,
+      "name": "Skylight Pages",
+      "isrc": null
+    },
+    {
+      "order": 6,
+      "name": "Dusty Margins",
+      "isrc": null
+    },
+    {
+      "order": 7,
+      "name": "Golden Overlook",
+      "isrc": null
+    },
+    {
+      "order": 8,
+      "name": "Lantern Drift",
+      "isrc": null
+    },
+    {
+      "order": 9,
+      "name": "Paper Lanterns",
+      "isrc": null
+    },
+    {
+      "order": 10,
+      "name": "Maple Confession",
+      "isrc": null
+    }
+  ]
+}

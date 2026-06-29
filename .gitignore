@@ -13,3 +13,6 @@ suno-jwt.txt
 
 # Captcha solver output
 captcha*.png
+
+# Distrokid (keep cover + metadata, exclude MP3)
+distrokid-albums/*/tracks/*.mp3

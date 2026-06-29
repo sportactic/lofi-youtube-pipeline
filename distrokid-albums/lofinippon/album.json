@@ -1,0 +1,49 @@
+{
+  "album_title": "Matsuri Dreams",
+  "artist": "LofiNippon",
+  "genre": "Japanese Lo-Fi",
+  "release_date": "2026-06-29",
+  "upc": null,
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Tanuki Steps",
+      "isrc": null
+    },
+    {
+      "order": 2,
+      "name": "Matsuri Glow",
+      "isrc": null
+    },
+    {
+      "order": 3,
+      "name": "Bamboo Rain",
+      "isrc": null
+    },
+    {
+      "order": 4,
+      "name": "Lantern Alley",
+      "isrc": null
+    },
+    {
+      "order": 5,
+      "name": "Tea Garden Hush",
+      "isrc": null
+    },
+    {
+      "order": 6,
+      "name": "Tatami Window",
+      "isrc": null
+    },
+    {
+      "order": 7,
+      "name": "Matsuri Reverie",
+      "isrc": null
+    },
+    {
+      "order": 8,
+      "name": "Lantern Reverie",
+      "isrc": null
+    }
+  ]
+}

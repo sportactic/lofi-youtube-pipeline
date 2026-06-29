@@ -1,0 +1,102 @@
+[
+  {
+    "order": 1,
+    "original_title": "Lamp Glow Loop",
+    "new_name": "Lamp Glow",
+    "variant": "Part I",
+    "full_track_name": "Lamp Glow (Part I)",
+    "duration": 127.12,
+    "audio_url": "https://cdn1.suno.ai/abd2c14e-4561-4999-8a39-b3b72a8c6063.mp3",
+    "clip_id": "abd2c14e-4561-4999-8a39-b3b72a8c6063"
+  },
+  {
+    "order": 2,
+    "original_title": "Lamp Glow Loop",
+    "new_name": "Lamp Glow",
+    "variant": "Part II",
+    "full_track_name": "Lamp Glow (Part II)",
+    "duration": 147.6,
+    "audio_url": "https://cdn1.suno.ai/00bb36fb-a1e1-4bbe-8286-08d67e4c36b0.mp3",
+    "clip_id": "00bb36fb-a1e1-4bbe-8286-08d67e4c36b0"
+  },
+  {
+    "order": 3,
+    "original_title": "Skylight Café Rain",
+    "new_name": "Skylight Café",
+    "variant": "Part I",
+    "full_track_name": "Skylight Café (Part I)",
+    "duration": 171.72,
+    "audio_url": "https://cdn1.suno.ai/5ee4c5f5-5f26-4036-83ed-811d32153c85.mp3",
+    "clip_id": "5ee4c5f5-5f26-4036-83ed-811d32153c85"
+  },
+  {
+    "order": 4,
+    "original_title": "Skylight Café Rain",
+    "new_name": "Skylight Café",
+    "variant": "Part II",
+    "full_track_name": "Skylight Café (Part II)",
+    "duration": 146.4,
+    "audio_url": "https://cdn1.suno.ai/dec2232b-3b1c-4d7e-858a-b3afa74cccb6.mp3",
+    "clip_id": "dec2232b-3b1c-4d7e-858a-b3afa74cccb6"
+  },
+  {
+    "order": 5,
+    "original_title": "Night Window Drift",
+    "new_name": "Night Window",
+    "variant": "Part I",
+    "full_track_name": "Night Window (Part I)",
+    "duration": 138.68,
+    "audio_url": "https://cdn1.suno.ai/0ce046b3-d82c-4232-90a9-e1bed995b199.mp3",
+    "clip_id": "0ce046b3-d82c-4232-90a9-e1bed995b199"
+  },
+  {
+    "order": 6,
+    "original_title": "Night Window Drift",
+    "new_name": "Night Window",
+    "variant": "Part II",
+    "full_track_name": "Night Window (Part II)",
+    "duration": 152.88,
+    "audio_url": "https://cdn1.suno.ai/b0566cea-64fc-4d50-83d9-dc5d6ae0292f.mp3",
+    "clip_id": "b0566cea-64fc-4d50-83d9-dc5d6ae0292f"
+  },
+  {
+    "order": 7,
+    "original_title": "Rain On Paper Cups",
+    "new_name": "Paper Cups",
+    "variant": "Part I",
+    "full_track_name": "Paper Cups (Part I)",
+    "duration": 156.32,
+    "audio_url": "https://cdn1.suno.ai/acab038b-6f64-41cb-9850-f818de1adcbc.mp3",
+    "clip_id": "acab038b-6f64-41cb-9850-f818de1adcbc"
+  },
+  {
+    "order": 8,
+    "original_title": "Rain On Paper Cups",
+    "new_name": "Paper Cups",
+    "variant": "Part II",
+    "full_track_name": "Paper Cups (Part II)",
+    "duration": 156.04,
+    "audio_url": "https://cdn1.suno.ai/9a9c3ab6-040a-48ab-838b-67421af0ba66.mp3",
+    "clip_id": "9a9c3ab6-040a-48ab-838b-67421af0ba66"
+  },
+  {
+    "order": 9,
+    "original_title": "Corner Table",
+    "new_name": "Corner Table",
+    "variant": "Part I",
+    "full_track_name": "Corner Table (Part I)",
+    "duration": 187.32,
+    "audio_url": "https://cdn1.suno.ai/4e192144-001f-4e94-b23f-6146b64552b9.mp3",
+    "clip_id": "4e192144-001f-4e94-b23f-6146b64552b9"
+  },
+  {
+    "order": 10,
+    "original_title": "Corner Table",
+    "new_name": "Corner Table",
+    "variant": "Part II",
+    "full_track_name": "Corner Table (Part II)",
+    "duration": 186.48,
+    "audio_url": "https://cdn1.suno.ai/77ee3a0a-26f4-4806-9a01-f84e58c2cf90.mp3",
+    "clip_id": "77ee3a0a-26f4-4806-9a01-f84e58c2cf90"
+  }
+]

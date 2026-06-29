@@ -1,0 +1,102 @@
+[
+  {
+    "order": 1,
+    "original_title": "Tanuki On the Steps",
+    "new_name": "Tanuki Steps",
+    "variant": "Part I",
+    "full_track_name": "Tanuki Steps (Part I)",
+    "duration": 183.76,
+    "audio_url": "https://cdn1.suno.ai/00d7084d-9025-4846-9b3d-ea923d756429.mp3",
+    "clip_id": "00d7084d-9025-4846-9b3d-ea923d756429"
+  },
+  {
+    "order": 2,
+    "original_title": "Tanuki On the Steps",
+    "new_name": "Tanuki Steps",
+    "variant": "Part II",
+    "full_track_name": "Tanuki Steps (Part II)",
+    "duration": 147.64,
+    "audio_url": "https://cdn1.suno.ai/39b1adb5-f78d-43b0-bfeb-08c007277743.mp3",
+    "clip_id": "39b1adb5-f78d-43b0-bfeb-08c007277743"
+  },
+  {
+    "order": 3,
+    "original_title": "Lanterns at Matsuri",
+    "new_name": "Matsuri Glow",
+    "variant": "Part I",
+    "full_track_name": "Matsuri Glow (Part I)",
+    "duration": 148.28,
+    "audio_url": "https://cdn1.suno.ai/daa71b9d-1cc2-47ee-b1d0-62f6f8c96303.mp3",
+    "clip_id": "daa71b9d-1cc2-47ee-b1d0-62f6f8c96303"
+  },
+  {
+    "order": 4,
+    "original_title": "Lanterns at Matsuri",
+    "new_name": "Matsuri Glow",
+    "variant": "Part II",
+    "full_track_name": "Matsuri Glow (Part II)",
+    "duration": 162.84,
+    "audio_url": "https://cdn1.suno.ai/3109716d-024e-42c5-a289-55603d7bb4ad.mp3",
+    "clip_id": "3109716d-024e-42c5-a289-55603d7bb4ad"
+  },
+  {
+    "order": 5,
+    "original_title": "Bamboo Rain",
+    "new_name": "Bamboo Rain",
+    "variant": "Part I",
+    "full_track_name": "Bamboo Rain (Part I)",
+    "duration": 153.44,
+    "audio_url": "https://cdn1.suno.ai/bcbe5fa1-1566-4e03-8cbd-e2c075970dcc.mp3",
+    "clip_id": "bcbe5fa1-1566-4e03-8cbd-e2c075970dcc"
+  },
+  {
+    "order": 6,
+    "original_title": "Bamboo Rain",
+    "new_name": "Bamboo Rain",
+    "variant": "Part II",
+    "full_track_name": "Bamboo Rain (Part II)",
+    "duration": 132.96,
+    "audio_url": "https://cdn1.suno.ai/530f7e44-1d4a-4ee8-8db8-dd9a41518a8e.mp3",
+    "clip_id": "530f7e44-1d4a-4ee8-8db8-dd9a41518a8e"
+  },
+  {
+    "order": 7,
+    "original_title": "Lantern Alley Tanuki",
+    "new_name": "Lantern Alley",
+    "variant": "Part I",
+    "full_track_name": "Lantern Alley (Part I)",
+    "duration": 181.44,
+    "audio_url": "https://cdn1.suno.ai/aa278481-1149-4fc3-924c-e04341f93514.mp3",
+    "clip_id": "aa278481-1149-4fc3-924c-e04341f93514"
+  },
+  {
+    "order": 8,
+    "original_title": "Lantern Alley Tanuki",
+    "new_name": "Lantern Alley",
+    "variant": "Part II",
+    "full_track_name": "Lantern Alley (Part II)",
+    "duration": 189.32,
+    "audio_url": "https://cdn1.suno.ai/b93f8235-4785-41ee-abc9-cbbb339d9e41.mp3",
+    "clip_id": "b93f8235-4785-41ee-abc9-cbbb339d9e41"
+  },
+  {
+    "order": 9,
+    "original_title": "茶の湯の静けさ",
+    "new_name": "Tea Garden Hush",
+    "variant": "Solo",
+    "full_track_name": "Tea Garden Hush (Solo)",
+    "duration": 168.64,
+    "audio_url": "https://cdn1.suno.ai/d87afb0f-f4d3-48eb-a3c5-e5b000e5ef6f.mp3",
+    "clip_id": "d87afb0f-f4d3-48eb-a3c5-e5b000e5ef6f"
+  },
+  {
+    "order": 10,
+    "original_title": "Tatami Window Light",
+    "new_name": "Tatami Window",
+    "variant": "Part I",
+    "full_track_name": "Tatami Window (Part I)",
+    "duration": 158.44,
+    "audio_url": "https://cdn1.suno.ai/c872c889-372a-47cc-b0c2-98ab5d4d1d0b.mp3",
+    "clip_id": "c872c889-372a-47cc-b0c2-98ab5d4d1d0b"
+  }
+]

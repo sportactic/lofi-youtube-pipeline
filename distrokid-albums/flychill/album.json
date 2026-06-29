@@ -1,0 +1,34 @@
+{
+  "album_title": "Late Hours",
+  "artist": "FlyChill",
+  "genre": "Lo-Fi Hip Hop",
+  "release_date": "2026-06-29",
+  "upc": null,
+  "tracks": [
+    {
+      "order": 1,
+      "name": "Lamp Glow",
+      "isrc": null
+    },
+    {
+      "order": 2,
+      "name": "Skylight Café",
+      "isrc": null
+    },
+    {
+      "order": 3,
+      "name": "Night Window",
+      "isrc": null
+    },
+    {
+      "order": 4,
+      "name": "Paper Cups",
+      "isrc": null
+    },
+    {
+      "order": 5,
+      "name": "Corner Table",
+      "isrc": null
+    }
+  ]
+}
