@@ -1,0 +1,48 @@
+{
+  "videos_uploaded": [
+    {
+      "channel": "TheLoFi",
+      "youtube_id": "SEF4f2SNgNI",
+      "url": "https://www.youtube.com/watch?v=SEF4f2SNgNI",
+      "method": "YouTube Direct API",
+      "scheduled_publish": "2026-06-29T19:00:00Z",
+      "scheduled_human": "TR 22:00 today (2026-06-29)",
+      "title": "The Lo-Fi • 85 Min+ Cozy Lofi Beats to Study Sleep Relax | Rainy Window Vibes",
+      "duration_minutes": 85.12,
+      "tracks": 20,
+      "loops": 2,
+      "visuals": 20,
+      "visual_style": "anime girl + green chameleon, warm amber + teal"
+    },
+    {
+      "channel": "LoFiNippon",
+      "youtube_id": "WNk1mx0AU2U",
+      "url": "https://www.youtube.com/watch?v=WNk1mx0AU2U",
+      "method": "YouTube Direct API",
+      "scheduled_publish": "2026-06-30T01:00:00Z",
+      "scheduled_human": "TR 04:00 tomorrow (2026-06-30)",
+      "title": "Lofi Nippon • 75 Min+ Japanese Lo-Fi Beats to Study Sleep Relax | Lantern & Tanuki Vibes",
+      "duration_minutes": 75.93,
+      "tracks": 10,
+      "loops": 3,
+      "visuals": 10,
+      "visual_style": "kimono girl + tanuki, sakura pink + indigo + gold"
+    },
+    {
+      "channel": "FlyChill",
+      "zernio_post_id": "6a421eefa920281931f03d57",
+      "method": "Zernio API",
+      "scheduled_publish": "2026-06-30T07:00:00Z",
+      "scheduled_human": "TR 10:00 tomorrow (2026-06-30)",
+      "title": "FlyChill • 75 Min+ Lofi Beats to Study Sleep Relax | Anime Café Vibes",
+      "duration_minutes": 75.93,
+      "tracks": 10,
+      "loops": 3,
+      "visuals": 10,
+      "visual_style": "anime girl only (no mascot), cool blue + lavender + warm gold"
+    }
+  ],
+  "cadence": "1 video per channel every ~12-24 hours for daily/2-day cadence",
+  "discovery_note": "GET /api/project/{id} returns full project with all clips - no need to ask user for share URLs anymore. JWT refresh via Playwright + saved __client cookie works.",
+  "uploaded_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+}

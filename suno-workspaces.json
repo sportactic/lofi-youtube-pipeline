@@ -1,0 +1,41 @@
+{
+  "suno_user_id": "0bfa18e8-5cb9-4294-b859-325f63aa3f31",
+  "suno_handle": "ound7music",
+  "suno_email": "sportactictr@gmail.com",
+  "clerk_id": "user_2a4Yk1j13xpBeDOE4M1O77797cL",
+  "workspaces": {
+    "the-lofi": {
+      "project_id": "78136c59-6637-4eea-beba-9582e58b028d",
+      "name": "TheLoFi",
+      "youtube_channel_id": "UCpdnbfS3UL-_bKr_8uJGYxQ",
+      "youtube_handle": "@the-lo-fi",
+      "visual_style": "anime girl + green chameleon, warm amber + teal",
+      "tracks_dir": "/workspace/tracks-thelofi-v3",
+      "visuals_dir": "/workspace/visuals-thelofi-v3"
+    },
+    "lofinippon": {
+      "project_id": "2f6a96be-2327-4b87-baec-d21466d6d3c5",
+      "name": "Lofi Nippon",
+      "youtube_channel_id": "UCEXLQ3tlpMu4TWnHojfEP7g",
+      "youtube_handle": "@lofinippon",
+      "visual_style": "kimono girl + tanuki, sakura pink + indigo + gold",
+      "tracks_dir": "/workspace/tracks-lofi-nippon-v3",
+      "visuals_dir": "/workspace/visuals-lofi-nippon-v3"
+    },
+    "flychill": {
+      "project_id": "7b661a9c-107a-4297-b0ee-2fa015e66d8b",
+      "name": "Fly Chill",
+      "youtube_channel_id": "UCvnQnOtZUJ9ZsM1ZgJpvBqQ",
+      "youtube_handle": "@FlyChill",
+      "visual_style": "anime girl only (NO mascot), cool blue + lavender + warm gold",
+      "tracks_dir": "/workspace/tracks-fly-chill-v3",
+      "visuals_dir": "/workspace/visuals-fly-chill-v3"
+    }
+  },
+  "api_endpoints": {
+    "list_projects": "GET /api/project/me",
+    "project_clips": "GET /api/project/{project_id}",
+    "feed": "POST /api/feed/v3 {\"cursor\":null,\"limit\":50}"
+  },
+  "download_url_pattern": "https://cdn1.suno.ai/{clip_id}.mp3"
+}
