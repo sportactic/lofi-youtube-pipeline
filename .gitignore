@@ -4,6 +4,8 @@ daily-pipeline/*.mp3
 daily-pipeline/audio-*/
 daily-pipeline/render-*.log
 daily-pipeline/video_*only.mp4
+daily-pipeline/shorts-*/
+daily-pipeline/thumbnails/*.png
 
 # Suno credentials
 suno-cookie*
