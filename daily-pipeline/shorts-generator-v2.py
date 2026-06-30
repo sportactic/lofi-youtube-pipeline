@@ -168,10 +168,19 @@ def main():
     times = pick_unique_clips(video_path, num_shorts, clip_duration=45)
     print(f'  Time windows: {[f"{t:.0f}s" for t in times]}')
     
-    # Pick unique visuals (round-robin through all available)
+    # Pick unique visuals (round-robin through all available, with --start-index offset)
+    import argparse
+    start_index = 0
+    for arg in sys.argv[1:]:
+        if arg.startswith('--start-index='):
+            try:
+                start_index = int(arg.split('=')[1])
+            except ValueError:
+                pass
+    
     selected_visuals = []
     for i in range(num_shorts):
-        v = visuals[i % len(visuals)]
+        v = visuals[(start_index + i) % len(visuals)]
         selected_visuals.append(v)
     
     print(f'  Visuals used:')
