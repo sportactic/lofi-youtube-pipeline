@@ -1,0 +1,48 @@
+{
+  "channel": "thelofi",
+  "timestamp": "2026-06-30T09:17:51.652Z",
+  "attempted": 3,
+  "success": 3,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Library Lullaby",
+      "prompt": "Lo-fi chillhop, female vocal optional, mellow piano chords, soft vinyl crackle, dusty jazz guitar, brushed snare, deep sub bass, melancholic but warm, slow tempo, library at midnight, rain on skylight, anime aesthetic, late-night study vibe, 90s anime soundtrack feel",
+      "clipId": "dd1c3da8-c1b3-4c13-b44d-1785a08fbf4d",
+      "title": "Library Lullaby",
+      "audioUrl": "https://cdn1.suno.ai/dd1c3da8-c1b3-4c13-b44d-1785a08fbf4d.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_dd1c3da8-c1b3-4c13-b44d-1785a08fbf4d.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_dd1c3da8-c1b3-4c13-b44d-1785a08fbf4d.jpeg",
+      "duration": 19.8,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:15:22.947Z"
+    },
+    {
+      "name": "Bistro Window",
+      "prompt": "Lo-fi hip hop, dreamy Rhodes piano, warm upright bass, soft finger snaps, jazzy chords, tape hiss, romantic melancholy, slow tempo, Parisian bistro at night, streetlight reflections on wet cobblestone, anime girl aesthetic, midnight study session, jazzy lofi",
+      "clipId": "cc7ebc5f-d2dd-49e5-932c-af49333a584f",
+      "title": "Bistro Window",
+      "audioUrl": "https://cdn1.suno.ai/cc7ebc5f-d2dd-49e5-932c-af49333a584f.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_cc7ebc5f-d2dd-49e5-932c-af49333a584f.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_cc7ebc5f-d2dd-49e5-932c-af49333a584f.jpeg",
+      "duration": 34.96,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:16:18.241Z"
+    },
+    {
+      "name": "Rooftop Reverie",
+      "prompt": "Chillhop, ethereal pad synths, soft acoustic guitar, lo-fi hip hop drums, gentle piano melody, warm sub bass, dreamy and wistful, slow tempo, rooftop overlooking city lights, summer night atmosphere, anime sky scene, lo-fi study aesthetic",
+      "clipId": "1b687d8a-9b6c-4c70-9e4b-a3d32d2ee8fc",
+      "title": "Rooftop Reverie",
+      "audioUrl": "https://cdn1.suno.ai/1b687d8a-9b6c-4c70-9e4b-a3d32d2ee8fc.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_1b687d8a-9b6c-4c70-9e4b-a3d32d2ee8fc.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_1b687d8a-9b6c-4c70-9e4b-a3d32d2ee8fc.jpeg",
+      "duration": 25.56,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:17:12.984Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "prompts": [
+    {
+      "name": "Cappuccino Static",
+      "prompt": "Ambient lo-fi, soft Rhodes piano, deep sub bass, brushed drums, vinyl crackle, tape saturation, melancholic cafe mood, slow tempo, late night coffee shop, anime girl reading at corner table, espresso steam, cinematic lofi, dreamy"
+    },
+    {
+      "name": "Moonlit Espresso",
+      "prompt": "Lo-fi hip hop, mellow electric piano, soft acoustic guitar plucks, lo-fi drums, warm reverb, jazzy chord voicing, slow tempo, rainy café by night, moonlight through window, anime aesthetic, introspective melancholy, study work music"
+    },
+    {
+      "name": "Window Seat Steam",
+      "prompt": "Ambient lo-fi chillhop, warm synth pads, soft piano melody, finger snaps, deep bass, lo-fi hip hop drums, hazy peaceful mood, slow tempo, train window seat at night, city lights passing by, anime girl with headphones, dreamy vapor"
+    },
+    {
+      "name": "Pour Over Drizzle",
+      "prompt": "Lofi chillhop, soft Rhodes chords, muted trumpet melody, brushed snare, warm bass, jazz harmony, cozy rainy atmosphere, slow tempo, pouring coffee in slow motion, rain on skylight, anime café window, nostalgic intimacy"
+    },
+    {
+      "name": "Midnight Study Loop",
+      "prompt": "Lo-fi hip hop, minimal piano motif, deep analog bass, lo-fi drums, tape hiss, vinyl crackle, hypnotic repetitive loop, slow tempo, anime girl studying at desk with espresso, midnight lamp glow, focused concentration, ambient loop study music"
+    }
+  ]
+}

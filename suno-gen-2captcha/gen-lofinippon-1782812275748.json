@@ -1,0 +1,74 @@
+{
+  "channel": "lofinippon",
+  "timestamp": "2026-06-30T09:37:55.748Z",
+  "attempted": 5,
+  "success": 5,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Lantern Stroll",
+      "prompt": "Japanese lo-fi, koto melody, shakuhachi flute, soft electronic beats, deep sub bass, peaceful and nostalgic, slow tempo, evening lantern-lit alley, soft rain on stone, traditional meets modern, studio Ghibli aesthetic, tanuki companion, melancholic beauty",
+      "clipId": "17b5d4a7-f366-43be-8190-3891d502a799",
+      "title": "Lantern Stroll",
+      "audioUrl": "https://cdn1.suno.ai/17b5d4a7-f366-43be-8190-3891d502a799.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_17b5d4a7-f366-43be-8190-3891d502a799.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_17b5d4a7-f366-43be-8190-3891d502a799.jpeg",
+      "duration": 55.4,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:31:39.996Z"
+    },
+    {
+      "name": "Tea Ceremony",
+      "prompt": "Lofi chillhop Japanese fusion, shamisen plucks, soft piano chords, lo-fi hip hop drums, gentle bass, peaceful meditation mood, slow tempo, traditional tea house interior, tatami mats, soft window light, kimono girl aesthetic, calm contemplation",
+      "clipId": "28a2ac0d-c34a-4c63-ad56-4bcbad540150",
+      "title": "Tea Ceremony",
+      "audioUrl": "https://cdn1.suno.ai/28a2ac0d-c34a-4c63-ad56-4bcbad540150.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_28a2ac0d-c34a-4c63-ad56-4bcbad540150.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_28a2ac0d-c34a-4c63-ad56-4bcbad540150.jpeg",
+      "duration": 22.04,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:33:14.067Z"
+    },
+    {
+      "name": "Bamboo Rain",
+      "prompt": "Japanese lo-fi chillhop, ambient pad synth, soft marimba, bamboo flute, gentle lo-fi drums, warm sub bass, rainy forest atmosphere, slow tempo, bamboo grove, gentle rain on leaves, peaceful dreamlike, anime nostalgic, ethereal mood",
+      "clipId": "b96b49cb-0194-4b98-96a7-e9618b36f3e6",
+      "title": "Bamboo Rain",
+      "audioUrl": "https://cdn1.suno.ai/b96b49cb-0194-4b98-96a7-e9618b36f3e6.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_b96b49cb-0194-4b98-96a7-e9618b36f3e6.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_b96b49cb-0194-4b98-96a7-e9618b36f3e6.jpeg",
+      "duration": 84.76,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:34:08.690Z"
+    },
+    {
+      "name": "Festival Evening",
+      "prompt": "Lofi hip hop, taiko-inspired soft percussion, koto arpeggios, electric piano chords, mellow bass, festival lanterns in distance, slow tempo, summer matsuri evening, soft wind chime, kimono and yukata aesthetic, warm nostalgia, lofi japanese",
+      "clipId": "37287b03-5ff6-4092-b8a1-127971893526",
+      "title": "Festival Evening",
+      "audioUrl": "https://cdn1.suno.ai/37287b03-5ff6-4092-b8a1-127971893526.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_37287b03-5ff6-4092-b8a1-127971893526.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_37287b03-5ff6-4092-b8a1-127971893526.jpeg",
+      "duration": 30.96,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:35:42.713Z"
+    },
+    {
+      "name": "Shrine Steps",
+      "prompt": "Japanese lofi, soft koto melody, ambient pads, traditional wooden flute, lo-fi hip hop drums, melancholic beauty, slow tempo, ancient stone shrine steps at dawn, misty morning, soft moss textures, tanuki guardian, anime cinematic peaceful",
+      "clipId": "b93d9839-db67-4fd5-b93c-6648f3ceddf0",
+      "title": "Shrine Steps",
+      "audioUrl": "https://cdn1.suno.ai/b93d9839-db67-4fd5-b93c-6648f3ceddf0.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_b93d9839-db67-4fd5-b93c-6648f3ceddf0.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_b93d9839-db67-4fd5-b93c-6648f3ceddf0.jpeg",
+      "duration": 94.48,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:36:37.755Z"
+    }
+  ]
+}

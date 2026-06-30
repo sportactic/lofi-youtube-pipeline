@@ -1,0 +1,16 @@
+{
+  "channel": "thelofi",
+  "timestamp": "2026-06-30T08:27:28.925Z",
+  "totalPrompts": 5,
+  "attempted": 1,
+  "generated": [
+    {
+      "name": "Library Lullaby",
+      "prompt": "Lo-fi chillhop, female vocal optional, mellow piano chords, soft vinyl crackle, dusty jazz guitar, brushed snare, deep sub bass, melancholic but warm, slow tempo, library at midnight, rain on skylight, anime aesthetic, late-night study vibe, 90s anime soundtrack feel",
+      "audioUrls": [],
+      "captchaSolved": false,
+      "failed": true
+    }
+  ],
+  "capturedAudios": []
+}

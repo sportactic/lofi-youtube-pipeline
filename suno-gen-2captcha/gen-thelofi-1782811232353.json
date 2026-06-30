@@ -1,0 +1,74 @@
+{
+  "channel": "thelofi",
+  "timestamp": "2026-06-30T09:20:32.353Z",
+  "attempted": 5,
+  "success": 5,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Library Lullaby",
+      "prompt": "Lo-fi chillhop, female vocal optional, mellow piano chords, soft vinyl crackle, dusty jazz guitar, brushed snare, deep sub bass, melancholic but warm, slow tempo, library at midnight, rain on skylight, anime aesthetic, late-night study vibe, 90s anime soundtrack feel",
+      "clipId": "fa12ccd4-ade9-4b0c-8cc8-a7cea3e124f6",
+      "title": "Library Lullaby",
+      "audioUrl": "https://cdn1.suno.ai/fa12ccd4-ade9-4b0c-8cc8-a7cea3e124f6.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_fa12ccd4-ade9-4b0c-8cc8-a7cea3e124f6.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_fa12ccd4-ade9-4b0c-8cc8-a7cea3e124f6.jpeg",
+      "duration": 29.96,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:16:03.148Z"
+    },
+    {
+      "name": "Bistro Window",
+      "prompt": "Lo-fi hip hop, dreamy Rhodes piano, warm upright bass, soft finger snaps, jazzy chords, tape hiss, romantic melancholy, slow tempo, Parisian bistro at night, streetlight reflections on wet cobblestone, anime girl aesthetic, midnight study session, jazzy lofi",
+      "clipId": "d1bb44ad-174b-4769-ac96-a6532644761d",
+      "title": "Bistro Window",
+      "audioUrl": "https://cdn1.suno.ai/d1bb44ad-174b-4769-ac96-a6532644761d.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_d1bb44ad-174b-4769-ac96-a6532644761d.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_d1bb44ad-174b-4769-ac96-a6532644761d.jpeg",
+      "duration": 25,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:16:59.177Z"
+    },
+    {
+      "name": "Rooftop Reverie",
+      "prompt": "Chillhop, ethereal pad synths, soft acoustic guitar, lo-fi hip hop drums, gentle piano melody, warm sub bass, dreamy and wistful, slow tempo, rooftop overlooking city lights, summer night atmosphere, anime sky scene, lo-fi study aesthetic",
+      "clipId": "4b1cc950-3a33-427c-84e4-52ff40e6c0d0",
+      "title": "Rooftop Reverie",
+      "audioUrl": "https://cdn1.suno.ai/4b1cc950-3a33-427c-84e4-52ff40e6c0d0.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_4b1cc950-3a33-427c-84e4-52ff40e6c0d0.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_4b1cc950-3a33-427c-84e4-52ff40e6c0d0.jpeg",
+      "duration": 29.24,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:17:53.709Z"
+    },
+    {
+      "name": "Subway Sleep",
+      "prompt": "Lo-fi chillhop, mellow Rhodes piano, lo-fi hip hop drums, soft bass, tape saturation, jazzy chord progression, slightly hypnotic, slow tempo, subway car late night, empty seats, rain streaks on windows, anime girl with headphones, ambient lofi",
+      "clipId": "2a1d194a-1309-4ccb-9a7b-e89404163bc9",
+      "title": "Subway Sleep",
+      "audioUrl": "https://cdn1.suno.ai/2a1d194a-1309-4ccb-9a7b-e89404163bc9.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_2a1d194a-1309-4ccb-9a7b-e89404163bc9.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_2a1d194a-1309-4ccb-9a7b-e89404163bc9.jpeg",
+      "duration": 37.96,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:18:53.354Z"
+    },
+    {
+      "name": "Sakura Statics",
+      "prompt": "Lo-fi chillhop, warm vinyl crackle, soft electric piano, deep mellow bass, brushed snare, jazz harmony, nostalgic romantic feel, slow tempo, old TV static, retro anime aesthetic, evening bedroom lamp, cozy melancholy, dreamy lofi",
+      "clipId": "bc05db12-a31e-428a-a0ff-2727bdaeb447",
+      "title": "Sakura Statics",
+      "audioUrl": "https://cdn1.suno.ai/bc05db12-a31e-428a-a0ff-2727bdaeb447.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_bc05db12-a31e-428a-a0ff-2727bdaeb447.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_bc05db12-a31e-428a-a0ff-2727bdaeb447.jpeg",
+      "duration": 36.2,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:19:53.667Z"
+    }
+  ]
+}

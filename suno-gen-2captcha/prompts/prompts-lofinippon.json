@@ -1,0 +1,24 @@
+{
+  "prompts": [
+    {
+      "name": "Lantern Stroll",
+      "prompt": "Japanese lo-fi, koto melody, shakuhachi flute, soft electronic beats, deep sub bass, peaceful and nostalgic, slow tempo, evening lantern-lit alley, soft rain on stone, traditional meets modern, studio Ghibli aesthetic, tanuki companion, melancholic beauty"
+    },
+    {
+      "name": "Tea Ceremony",
+      "prompt": "Lofi chillhop Japanese fusion, shamisen plucks, soft piano chords, lo-fi hip hop drums, gentle bass, peaceful meditation mood, slow tempo, traditional tea house interior, tatami mats, soft window light, kimono girl aesthetic, calm contemplation"
+    },
+    {
+      "name": "Bamboo Rain",
+      "prompt": "Japanese lo-fi chillhop, ambient pad synth, soft marimba, bamboo flute, gentle lo-fi drums, warm sub bass, rainy forest atmosphere, slow tempo, bamboo grove, gentle rain on leaves, peaceful dreamlike, anime nostalgic, ethereal mood"
+    },
+    {
+      "name": "Festival Evening",
+      "prompt": "Lofi hip hop, taiko-inspired soft percussion, koto arpeggios, electric piano chords, mellow bass, festival lanterns in distance, slow tempo, summer matsuri evening, soft wind chime, kimono and yukata aesthetic, warm nostalgia, lofi japanese"
+    },
+    {
+      "name": "Shrine Steps",
+      "prompt": "Japanese lofi, soft koto melody, ambient pads, traditional wooden flute, lo-fi hip hop drums, melancholic beauty, slow tempo, ancient stone shrine steps at dawn, misty morning, soft moss textures, tanuki guardian, anime cinematic peaceful"
+    }
+  ]
+}

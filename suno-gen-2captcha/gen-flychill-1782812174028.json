@@ -1,0 +1,74 @@
+{
+  "channel": "flychill",
+  "timestamp": "2026-06-30T09:36:14.028Z",
+  "attempted": 5,
+  "success": 5,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Cappuccino Static",
+      "prompt": "Ambient lo-fi, soft Rhodes piano, deep sub bass, brushed drums, vinyl crackle, tape saturation, melancholic cafe mood, slow tempo, late night coffee shop, anime girl reading at corner table, espresso steam, cinematic lofi, dreamy",
+      "clipId": "3994b995-d956-4c33-99d4-4a078a7482b7",
+      "title": "Cappuccino Static",
+      "audioUrl": "https://cdn1.suno.ai/3994b995-d956-4c33-99d4-4a078a7482b7.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_3994b995-d956-4c33-99d4-4a078a7482b7.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_3994b995-d956-4c33-99d4-4a078a7482b7.jpeg",
+      "duration": 39.64,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:31:45.757Z"
+    },
+    {
+      "name": "Moonlit Espresso",
+      "prompt": "Lo-fi hip hop, mellow electric piano, soft acoustic guitar plucks, lo-fi drums, warm reverb, jazzy chord voicing, slow tempo, rainy café by night, moonlight through window, anime aesthetic, introspective melancholy, study work music",
+      "clipId": "302ac203-a2ca-41a5-9526-11d44d08e308",
+      "title": "Moonlit Espresso",
+      "audioUrl": "https://cdn1.suno.ai/302ac203-a2ca-41a5-9526-11d44d08e308.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_302ac203-a2ca-41a5-9526-11d44d08e308.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_302ac203-a2ca-41a5-9526-11d44d08e308.jpeg",
+      "duration": 33.16,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:32:41.036Z"
+    },
+    {
+      "name": "Window Seat Steam",
+      "prompt": "Ambient lo-fi chillhop, warm synth pads, soft piano melody, finger snaps, deep bass, lo-fi hip hop drums, hazy peaceful mood, slow tempo, train window seat at night, city lights passing by, anime girl with headphones, dreamy vapor",
+      "clipId": "f9d530e5-06b0-4067-a35b-f4c0bf6b45da",
+      "title": "Window Seat Steam",
+      "audioUrl": "https://cdn1.suno.ai/f9d530e5-06b0-4067-a35b-f4c0bf6b45da.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_f9d530e5-06b0-4067-a35b-f4c0bf6b45da.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_f9d530e5-06b0-4067-a35b-f4c0bf6b45da.jpeg",
+      "duration": 30.36,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:33:40.835Z"
+    },
+    {
+      "name": "Pour Over Drizzle",
+      "prompt": "Lofi chillhop, soft Rhodes chords, muted trumpet melody, brushed snare, warm bass, jazz harmony, cozy rainy atmosphere, slow tempo, pouring coffee in slow motion, rain on skylight, anime café window, nostalgic intimacy",
+      "clipId": "419dc351-94ba-40af-b82d-98ca4a5ddd87",
+      "title": "Pour Over Drizzle",
+      "audioUrl": "https://cdn1.suno.ai/419dc351-94ba-40af-b82d-98ca4a5ddd87.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_419dc351-94ba-40af-b82d-98ca4a5ddd87.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_419dc351-94ba-40af-b82d-98ca4a5ddd87.jpeg",
+      "duration": 33.56,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:34:35.547Z"
+    },
+    {
+      "name": "Midnight Study Loop",
+      "prompt": "Lo-fi hip hop, minimal piano motif, deep analog bass, lo-fi drums, tape hiss, vinyl crackle, hypnotic repetitive loop, slow tempo, anime girl studying at desk with espresso, midnight lamp glow, focused concentration, ambient loop study music",
+      "clipId": "83633f18-6f04-467b-8ca8-a8452ffab6fc",
+      "title": "Midnight Study Loop",
+      "audioUrl": "https://cdn1.suno.ai/83633f18-6f04-467b-8ca8-a8452ffab6fc.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_83633f18-6f04-467b-8ca8-a8452ffab6fc.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_83633f18-6f04-467b-8ca8-a8452ffab6fc.jpeg",
+      "duration": 42.64,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:35:35.314Z"
+    }
+  ]
+}

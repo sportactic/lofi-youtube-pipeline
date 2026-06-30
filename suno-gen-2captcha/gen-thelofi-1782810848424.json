@@ -1,0 +1,22 @@
+{
+  "channel": "thelofi",
+  "timestamp": "2026-06-30T09:14:08.424Z",
+  "attempted": 1,
+  "success": 1,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Library Lullaby",
+      "prompt": "Lo-fi chillhop, female vocal optional, mellow piano chords, soft vinyl crackle, dusty jazz guitar, brushed snare, deep sub bass, melancholic but warm, slow tempo, library at midnight, rain on skylight, anime aesthetic, late-night study vibe, 90s anime soundtrack feel",
+      "clipId": "3e005fcf-2ba9-4a7e-945d-54e2c0201771",
+      "title": "Library Lullaby",
+      "audioUrl": "https://cdn1.suno.ai/3e005fcf-2ba9-4a7e-945d-54e2c0201771.mp3",
+      "imageUrl": "https://cdn2.suno.ai/image_3e005fcf-2ba9-4a7e-945d-54e2c0201771.jpeg",
+      "imageLargeUrl": "https://cdn2.suno.ai/image_large_3e005fcf-2ba9-4a7e-945d-54e2c0201771.jpeg",
+      "duration": 29.96,
+      "model": "chirp-fenix",
+      "status": "complete",
+      "createdAt": "2026-06-30T09:13:29.668Z"
+    }
+  ]
+}

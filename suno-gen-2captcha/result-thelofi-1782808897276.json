@@ -1,0 +1,339 @@
+{
+  "channel": "thelofi",
+  "timestamp": "2026-06-30T08:41:37.276Z",
+  "totalPrompts": 5,
+  "attempted": 1,
+  "generated": [
+    {
+      "name": "Library Lullaby",
+      "prompt": "Lo-fi chillhop, female vocal optional, mellow piano chords, soft vinyl crackle, dusty jazz guitar, brushed snare, deep sub bass, melancholic but warm, slow tempo, library at midnight, rain on skylight, anime aesthetic, late-night study vibe, 90s anime soundtrack feel",
+      "audioUrls": [],
+      "captchaSolved": false,
+      "failed": true
+    }
+  ],
+  "feedClips": [
+    {
+      "id": "ab7d19cd-2386-4b91-a7b3-a0b620474f7e",
+      "title": "Rain On Rhodes",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/ab7d19cd-2386-4b91-a7b3-a0b620474f7e.mp3",
+      "created_at": "2026-06-29T09:10:52.935Z"
+    },
+    {
+      "id": "e9d4786b-aaad-402a-b457-7e2b3a6191f9",
+      "title": "Rain On Rhodes",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/e9d4786b-aaad-402a-b457-7e2b3a6191f9.mp3",
+      "created_at": "2026-06-29T09:10:52.935Z"
+    },
+    {
+      "id": "91562794-3745-4024-8f3b-127e86327cdb",
+      "title": "Midnight Coffee",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/91562794-3745-4024-8f3b-127e86327cdb.mp3",
+      "created_at": "2026-06-29T09:08:14.539Z"
+    },
+    {
+      "id": "9c410266-3681-475d-809e-72c2be26a922",
+      "title": "Lampside Pages",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/9c410266-3681-475d-809e-72c2be26a922.mp3",
+      "created_at": "2026-06-29T09:08:14.539Z"
+    },
+    {
+      "id": "75e65e52-ec3c-4444-84b0-d4eea9bb9e6d",
+      "title": "Midnight Study Nook",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/75e65e52-ec3c-4444-84b0-d4eea9bb9e6d.mp3",
+      "created_at": "2026-06-29T09:05:52.195Z"
+    },
+    {
+      "id": "f803aa36-bb13-4c4b-af9f-7da0c833c73b",
+      "title": "Midnight Study Nook",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/f803aa36-bb13-4c4b-af9f-7da0c833c73b.mp3",
+      "created_at": "2026-06-29T09:05:52.195Z"
+    },
+    {
+      "id": "0cd6a5a0-8f7d-4629-83d0-692add6b8673",
+      "title": "Rooftop Study Night",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/0cd6a5a0-8f7d-4629-83d0-692add6b8673.mp3",
+      "created_at": "2026-06-29T09:04:30.077Z"
+    },
+    {
+      "id": "71b2e444-46cb-47bb-99f8-9b4596cbfdc6",
+      "title": "Rooftop Study Night",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/71b2e444-46cb-47bb-99f8-9b4596cbfdc6.mp3",
+      "created_at": "2026-06-29T09:04:30.077Z"
+    },
+    {
+      "id": "50a895d2-16d3-4062-889e-491ced00cc9e",
+      "title": "Rain on Rhodes",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/50a895d2-16d3-4062-889e-491ced00cc9e.mp3",
+      "created_at": "2026-06-29T09:03:07.916Z"
+    },
+    {
+      "id": "1d39b3c7-3cca-4e2c-8439-5df948fd3d88",
+      "title": "Rain on Rhodes",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/1d39b3c7-3cca-4e2c-8439-5df948fd3d88.mp3",
+      "created_at": "2026-06-29T09:03:07.916Z"
+    },
+    {
+      "id": "7648706f-6dc7-473e-8066-1002bacfc2fe",
+      "title": "Lampside Pages",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/7648706f-6dc7-473e-8066-1002bacfc2fe.mp3",
+      "created_at": "2026-06-29T09:01:46.355Z"
+    },
+    {
+      "id": "08854822-8b2d-4541-9514-00cd028648d1",
+      "title": "Lampside Pages",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/08854822-8b2d-4541-9514-00cd028648d1.mp3",
+      "created_at": "2026-06-29T09:01:46.355Z"
+    },
+    {
+      "id": "16760c11-ee57-4a31-a05b-ed13833bce77",
+      "title": "Rain On Paper Cups",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/16760c11-ee57-4a31-a05b-ed13833bce77.mp3",
+      "created_at": "2026-06-29T08:55:49.075Z"
+    },
+    {
+      "id": "b385619b-5d9d-4c80-9775-33fbaeb615bd",
+      "title": "Rain On Paper Cups",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/b385619b-5d9d-4c80-9775-33fbaeb615bd.mp3",
+      "created_at": "2026-06-29T08:55:49.075Z"
+    },
+    {
+      "id": "31643a44-47dc-4db3-b128-d13f82ba4ea1",
+      "title": "Sakura Tea Drift",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/31643a44-47dc-4db3-b128-d13f82ba4ea1.mp3",
+      "created_at": "2026-06-29T08:54:14.259Z"
+    },
+    {
+      "id": "4390c2a2-f8d7-4497-9efe-f9725fc5fe9b",
+      "title": "Sakura Tea Drift",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/4390c2a2-f8d7-4497-9efe-f9725fc5fe9b.mp3",
+      "created_at": "2026-06-29T08:54:14.258Z"
+    },
+    {
+      "id": "f2c69641-a104-494d-be88-26966754c494",
+      "title": "Lampside Pages",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/f2c69641-a104-494d-be88-26966754c494.mp3",
+      "created_at": "2026-06-29T08:52:41.976Z"
+    },
+    {
+      "id": "fc3a785a-84c7-43b6-b7e1-7f45882afdd9",
+      "title": "Lampside Pages",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/fc3a785a-84c7-43b6-b7e1-7f45882afdd9.mp3",
+      "created_at": "2026-06-29T08:52:41.976Z"
+    },
+    {
+      "id": "5dd63069-49c5-48dc-955f-584ca2db1ed5",
+      "title": "Cookie Dough Dreams",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/5dd63069-49c5-48dc-955f-584ca2db1ed5.mp3",
+      "created_at": "2026-06-29T08:50:28.157Z"
+    },
+    {
+      "id": "6b53d444-fdad-4fa1-921e-e1f9f4ecc4b2",
+      "title": "Full Cookie",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/6b53d444-fdad-4fa1-921e-e1f9f4ecc4b2.mp3",
+      "created_at": "2026-06-29T08:50:28.156Z"
+    },
+    {
+      "id": "16290700-eaad-4c9b-b4f1-5b4b2dd65765",
+      "title": "Lo-fi Chillhop Test",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/16290700-eaad-4c9b-b4f1-5b4b2dd65765.mp3",
+      "created_at": "2026-06-29T07:54:28.771Z"
+    },
+    {
+      "id": "f9bfcbec-97eb-4718-acdc-2f232ed8af6d",
+      "title": "Lo-fi Chillhop Test",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/f9bfcbec-97eb-4718-acdc-2f232ed8af6d.mp3",
+      "created_at": "2026-06-29T07:54:28.771Z"
+    },
+    {
+      "id": "e321cd43-e0b4-4e84-80b6-6b3d182e4916",
+      "title": "Café Loop",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/e321cd43-e0b4-4e84-80b6-6b3d182e4916.mp3",
+      "created_at": "2026-06-28T21:42:18.711Z"
+    },
+    {
+      "id": "dc456f72-bf89-4c93-9ab0-1977d8846f44",
+      "title": "Café Loop",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/dc456f72-bf89-4c93-9ab0-1977d8846f44.mp3",
+      "created_at": "2026-06-28T21:42:18.711Z"
+    },
+    {
+      "id": "fc234474-a3d7-4d85-a921-c4b4c0b6bef9",
+      "title": "Espresso Loops",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/fc234474-a3d7-4d85-a921-c4b4c0b6bef9.mp3",
+      "created_at": "2026-06-28T21:41:13.081Z"
+    },
+    {
+      "id": "27291416-4a4f-48c9-af3f-5f859d3742e7",
+      "title": "Espresso Loops",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/27291416-4a4f-48c9-af3f-5f859d3742e7.mp3",
+      "created_at": "2026-06-28T21:41:13.081Z"
+    },
+    {
+      "id": "cb5b957a-88b1-405c-a100-bbc86b50b8e9",
+      "title": "Bean Counter",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/cb5b957a-88b1-405c-a100-bbc86b50b8e9.mp3",
+      "created_at": "2026-06-28T21:39:18.984Z"
+    },
+    {
+      "id": "28b81b16-d8f9-4152-b7a6-3d0360184fc3",
+      "title": "Bean Counter",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/28b81b16-d8f9-4152-b7a6-3d0360184fc3.mp3",
+      "created_at": "2026-06-28T21:39:18.984Z"
+    },
+    {
+      "id": "756f6b3b-ecca-4ff1-b6d6-23d2e0bf67b5",
+      "title": "Espresso Window",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/756f6b3b-ecca-4ff1-b6d6-23d2e0bf67b5.mp3",
+      "created_at": "2026-06-28T21:38:45.996Z"
+    },
+    {
+      "id": "78bf5cb6-c3ba-467e-8250-97c6debb7066",
+      "title": "Espresso Window",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/78bf5cb6-c3ba-467e-8250-97c6debb7066.mp3",
+      "created_at": "2026-06-28T21:38:45.996Z"
+    },
+    {
+      "id": "aca0bc2a-bb85-4078-992a-bd50dd4e59cd",
+      "title": "Espresso Drift",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/aca0bc2a-bb85-4078-992a-bd50dd4e59cd.mp3",
+      "created_at": "2026-06-28T21:37:15.394Z"
+    },
+    {
+      "id": "b949e4ab-794d-42d1-bb5a-ad1b112f2317",
+      "title": "Espresso Drift",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/b949e4ab-794d-42d1-bb5a-ad1b112f2317.mp3",
+      "created_at": "2026-06-28T21:37:15.394Z"
+    },
+    {
+      "id": "3fd447a0-a247-4d60-9bb8-aa3b2d2b15a0",
+      "title": "Backseat Cappuccino",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/3fd447a0-a247-4d60-9bb8-aa3b2d2b15a0.mp3",
+      "created_at": "2026-06-28T21:36:59.597Z"
+    },
+    {
+      "id": "bb86bcdb-2cb1-4570-bfe2-bdd14a16d47d",
+      "title": "Backseat Cappuccino",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/bb86bcdb-2cb1-4570-bfe2-bdd14a16d47d.mp3",
+      "created_at": "2026-06-28T21:36:59.597Z"
+    },
+    {
+      "id": "d2622359-2f7c-49ba-9fc4-930a9c12afd1",
+      "title": "Window Seat Steam",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/d2622359-2f7c-49ba-9fc4-930a9c12afd1.mp3",
+      "created_at": "2026-06-28T01:39:46.970Z"
+    },
+    {
+      "id": "f14ad8e2-43c9-417b-bca5-042057c41786",
+      "title": "Window Seat Steam",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/f14ad8e2-43c9-417b-bca5-042057c41786.mp3",
+      "created_at": "2026-06-28T01:39:46.970Z"
+    },
+    {
+      "id": "8c8a43f7-5950-4195-9986-cc2b8331f599",
+      "title": "Rooftop Terrace",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/8c8a43f7-5950-4195-9986-cc2b8331f599.mp3",
+      "created_at": "2026-06-28T01:38:57.386Z"
+    },
+    {
+      "id": "0e2fd8fa-03d7-4f13-9ec8-559a792283b1",
+      "title": "Rooftop Terrace",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/0e2fd8fa-03d7-4f13-9ec8-559a792283b1.mp3",
+      "created_at": "2026-06-28T01:38:57.386Z"
+    },
+    {
+      "id": "f65c6870-fb9b-48ea-9b08-172923502b36",
+      "title": "Rooftop Afterglow",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/f65c6870-fb9b-48ea-9b08-172923502b36.mp3",
+      "created_at": "2026-06-28T01:38:18.216Z"
+    },
+    {
+      "id": "150430a8-3b2d-4938-ac1d-38e03cd436c1",
+      "title": "Rooftop Afterglow",
+      "status": "complete",
+      "audio_url": "https://cdn1.suno.ai/150430a8-3b2d-4938-ac1d-38e03cd436c1.mp3",
+      "created_at": "2026-06-28T01:38:18.216Z"
+    }
+  ],
+  "capturedAudios": [
+    "https://cdn1.suno.ai/ab7d19cd-2386-4b91-a7b3-a0b620474f7e.mp3",
+    "https://cdn1.suno.ai/e9d4786b-aaad-402a-b457-7e2b3a6191f9.mp3",
+    "https://cdn1.suno.ai/91562794-3745-4024-8f3b-127e86327cdb.mp3",
+    "https://cdn1.suno.ai/9c410266-3681-475d-809e-72c2be26a922.mp3",
+    "https://cdn1.suno.ai/75e65e52-ec3c-4444-84b0-d4eea9bb9e6d.mp3",
+    "https://cdn1.suno.ai/f803aa36-bb13-4c4b-af9f-7da0c833c73b.mp3",
+    "https://cdn1.suno.ai/0cd6a5a0-8f7d-4629-83d0-692add6b8673.mp3",
+    "https://cdn1.suno.ai/71b2e444-46cb-47bb-99f8-9b4596cbfdc6.mp3",
+    "https://cdn1.suno.ai/50a895d2-16d3-4062-889e-491ced00cc9e.mp3",
+    "https://cdn1.suno.ai/1d39b3c7-3cca-4e2c-8439-5df948fd3d88.mp3",
+    "https://cdn1.suno.ai/7648706f-6dc7-473e-8066-1002bacfc2fe.mp3",
+    "https://cdn1.suno.ai/08854822-8b2d-4541-9514-00cd028648d1.mp3",
+    "https://cdn1.suno.ai/16760c11-ee57-4a31-a05b-ed13833bce77.mp3",
+    "https://cdn1.suno.ai/b385619b-5d9d-4c80-9775-33fbaeb615bd.mp3",
+    "https://cdn1.suno.ai/31643a44-47dc-4db3-b128-d13f82ba4ea1.mp3",
+    "https://cdn1.suno.ai/4390c2a2-f8d7-4497-9efe-f9725fc5fe9b.mp3",
+    "https://cdn1.suno.ai/f2c69641-a104-494d-be88-26966754c494.mp3",
+    "https://cdn1.suno.ai/fc3a785a-84c7-43b6-b7e1-7f45882afdd9.mp3",
+    "https://cdn1.suno.ai/5dd63069-49c5-48dc-955f-584ca2db1ed5.mp3",
+    "https://cdn1.suno.ai/6b53d444-fdad-4fa1-921e-e1f9f4ecc4b2.mp3",
+    "https://cdn1.suno.ai/16290700-eaad-4c9b-b4f1-5b4b2dd65765.mp3",
+    "https://cdn1.suno.ai/f9bfcbec-97eb-4718-acdc-2f232ed8af6d.mp3",
+    "https://cdn1.suno.ai/e321cd43-e0b4-4e84-80b6-6b3d182e4916.mp3",
+    "https://cdn1.suno.ai/dc456f72-bf89-4c93-9ab0-1977d8846f44.mp3",
+    "https://cdn1.suno.ai/fc234474-a3d7-4d85-a921-c4b4c0b6bef9.mp3",
+    "https://cdn1.suno.ai/27291416-4a4f-48c9-af3f-5f859d3742e7.mp3",
+    "https://cdn1.suno.ai/cb5b957a-88b1-405c-a100-bbc86b50b8e9.mp3",
+    "https://cdn1.suno.ai/28b81b16-d8f9-4152-b7a6-3d0360184fc3.mp3",
+    "https://cdn1.suno.ai/756f6b3b-ecca-4ff1-b6d6-23d2e0bf67b5.mp3",
+    "https://cdn1.suno.ai/78bf5cb6-c3ba-467e-8250-97c6debb7066.mp3",
+    "https://cdn1.suno.ai/aca0bc2a-bb85-4078-992a-bd50dd4e59cd.mp3",
+    "https://cdn1.suno.ai/b949e4ab-794d-42d1-bb5a-ad1b112f2317.mp3",
+    "https://cdn1.suno.ai/3fd447a0-a247-4d60-9bb8-aa3b2d2b15a0.mp3",
+    "https://cdn1.suno.ai/bb86bcdb-2cb1-4570-bfe2-bdd14a16d47d.mp3",
+    "https://cdn1.suno.ai/d2622359-2f7c-49ba-9fc4-930a9c12afd1.mp3",
+    "https://cdn1.suno.ai/f14ad8e2-43c9-417b-bca5-042057c41786.mp3",
+    "https://cdn1.suno.ai/8c8a43f7-5950-4195-9986-cc2b8331f599.mp3",
+    "https://cdn1.suno.ai/0e2fd8fa-03d7-4f13-9ec8-559a792283b1.mp3",
+    "https://cdn1.suno.ai/f65c6870-fb9b-48ea-9b08-172923502b36.mp3",
+    "https://cdn1.suno.ai/150430a8-3b2d-4938-ac1d-38e03cd436c1.mp3"
+  ]
+}
